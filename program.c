@@ -120,3 +120,4 @@ int main()
     afficher_bilan();
     return 0;
 }
+
